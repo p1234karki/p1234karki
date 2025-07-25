@@ -47,7 +47,7 @@ Currently building skills in the Salesforce ecosystem and contributing to real-w
 ### 📈 GitHub Insights
 
 ![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=p1234karki&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p1234karko&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p1234karki&layout=compact&theme=gruvbox)
 
 ---
 
